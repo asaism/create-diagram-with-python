@@ -15,3 +15,6 @@ brew install graphviz
 pip install diagrams
 ```
 
+## 3. Write python and Run as you like
+
+[Exsample](https://diagrams.mingrammer.com/docs/getting-started/examples)
